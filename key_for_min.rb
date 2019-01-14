@@ -12,4 +12,7 @@ def key_for_min_value(name_hash)
   end
   lowest_key
 end
+<<<<<<< HEAD
 
+=======
+>>>>>>> 24ebdf0e82793900f9127c2d5f0ba9a550dd22be
